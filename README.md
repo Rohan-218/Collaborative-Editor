@@ -1,4 +1,4 @@
-# Docker-Aws
+# Collaborative Editor
 
 Project combining a Vite React frontend and an Express + Socket.IO backend. The top-level `dockerfile` builds the frontend, copies the built assets into the backend `public` folder, and runs the backend server.
 
